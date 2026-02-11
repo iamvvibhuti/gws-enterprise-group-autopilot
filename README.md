@@ -61,4 +61,4 @@ This script solves those gaps while staying within Apps Script limits.
    - target group email
    - valid grades
    - valid location keywords
-5. Create **one daily trigger** for:
+5. Create **one daily trigger** for: Auto-Update
